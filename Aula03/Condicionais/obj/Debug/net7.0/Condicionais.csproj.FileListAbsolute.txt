@@ -1,0 +1,14 @@
+C:\Users\joaop\Desktop\csharp\Aula03\Condicionais\bin\Debug\net7.0\Condicionais.exe
+C:\Users\joaop\Desktop\csharp\Aula03\Condicionais\bin\Debug\net7.0\Condicionais.deps.json
+C:\Users\joaop\Desktop\csharp\Aula03\Condicionais\bin\Debug\net7.0\Condicionais.runtimeconfig.json
+C:\Users\joaop\Desktop\csharp\Aula03\Condicionais\bin\Debug\net7.0\Condicionais.dll
+C:\Users\joaop\Desktop\csharp\Aula03\Condicionais\bin\Debug\net7.0\Condicionais.pdb
+C:\Users\joaop\Desktop\csharp\Aula03\Condicionais\obj\Debug\net7.0\Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\Desktop\csharp\Aula03\Condicionais\obj\Debug\net7.0\Condicionais.AssemblyInfoInputs.cache
+C:\Users\joaop\Desktop\csharp\Aula03\Condicionais\obj\Debug\net7.0\Condicionais.AssemblyInfo.cs
+C:\Users\joaop\Desktop\csharp\Aula03\Condicionais\obj\Debug\net7.0\Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\joaop\Desktop\csharp\Aula03\Condicionais\obj\Debug\net7.0\Condicionais.dll
+C:\Users\joaop\Desktop\csharp\Aula03\Condicionais\obj\Debug\net7.0\refint\Condicionais.dll
+C:\Users\joaop\Desktop\csharp\Aula03\Condicionais\obj\Debug\net7.0\Condicionais.pdb
+C:\Users\joaop\Desktop\csharp\Aula03\Condicionais\obj\Debug\net7.0\Condicionais.genruntimeconfig.cache
+C:\Users\joaop\Desktop\csharp\Aula03\Condicionais\obj\Debug\net7.0\ref\Condicionais.dll
