@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loop", "Loop.csproj", "{3314F9AB-AF14-4CDF-B6B6-B699D120B536}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pesquisa", "..\Pesquisa\Pesquisa.csproj", "{6564957A-050D-4705-8C23-B95A070E1AD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividades", "..\Atividades\Atividades.csproj", "{B6BCA9DB-EFC1-462D-BE9D-D60FD4534D53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3314F9AB-AF14-4CDF-B6B6-B699D120B536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3314F9AB-AF14-4CDF-B6B6-B699D120B536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3314F9AB-AF14-4CDF-B6B6-B699D120B536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3314F9AB-AF14-4CDF-B6B6-B699D120B536}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6564957A-050D-4705-8C23-B95A070E1AD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6564957A-050D-4705-8C23-B95A070E1AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6564957A-050D-4705-8C23-B95A070E1AD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6564957A-050D-4705-8C23-B95A070E1AD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6BCA9DB-EFC1-462D-BE9D-D60FD4534D53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6BCA9DB-EFC1-462D-BE9D-D60FD4534D53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6BCA9DB-EFC1-462D-BE9D-D60FD4534D53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6BCA9DB-EFC1-462D-BE9D-D60FD4534D53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C5DAB00-C342-46F4-BACF-38C85CE1BE18}
+	EndGlobalSection
+EndGlobal

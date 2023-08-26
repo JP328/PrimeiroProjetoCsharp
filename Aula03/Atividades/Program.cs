@@ -107,9 +107,7 @@
 
             void Exercise2If() 
             {
-                string? vertebrate;
-                string? animalType;
-                string? food;
+                String? vertebrate, animalType, food;
 
                 Console.WriteLine("-----------------------------------------------------------------");
                 Console.WriteLine("------------------ # Exercício 4 - Lista 01 # -------------------");
@@ -142,13 +140,15 @@
                         if (animalType.Equals("ave"))
                             Console.WriteLine(food.Equals("carnívoro") ? "\nÁguia" : "\nPombo");
                         else
-                            Console.WriteLine(food.ToUpper().Equals("onívoro") ? "\nHomem" : "\nVaca");
+                            Console.WriteLine(food.Equals("onívoro") ? "\nHomem" : "\nVaca");
                     else
                         if (animalType.Equals("inseto"))
-                            Console.WriteLine(food.Equals("hematófago") ? "\nPulga" : "\nLagarta");
-                        else
-                            Console.WriteLine(food.Equals("hematófago") ? "\nSanguessuga" : "\nMinhoca");
+                        Console.WriteLine(food.Equals("hematófago") ? "\nPulga" : "\nLagarta");
+                    else
+                        Console.WriteLine(food.Equals("hematófago") ? "\nSanguessuga" : "\nMinhoca");
                 }
+                else
+                    Console.WriteLine("Por favor, não deixe nada em branco!");
 
                 reset();
             }
