@@ -32,7 +32,7 @@
 
             void Activity1()
             {
-                bool foundNum = false;
+                //bool foundNum = false;
                 int num;
                 int[] vetor = { 2, 5, 1, 3, 4, 9, 7, 8, 10, 6};
 
@@ -42,6 +42,12 @@
 
                 Console.WriteLine("\n---------------------------------------------------------------\n");
 
+                if(Array.IndexOf(vetor, num) != -1)
+                    Console.WriteLine($"O número {num} está localizado na posição: {Array.IndexOf(vetor, num)}");
+                else
+                    Console.WriteLine($"O número {num} não foi encontrado!");
+
+                /*
                 for (int i = 0; i < vetor.Length; i++)
                 {
                     if (vetor[i] == num)
@@ -53,11 +59,13 @@
 
                 if (foundNum == false)
                     Console.WriteLine($"O número {num} não foi encontrado!");
+                */
             }
 
             void Activity2()
             {
                 float sum = 0;
+                string indexPair = "", indexOdd = "";
                 int[] vetor = new int[10];
 
                 Console.WriteLine("------------------------- Atividade 2 -------------------------");
@@ -68,9 +76,20 @@
                     vetor[i] = Convert.ToInt32(Console.ReadLine());
                     Console.WriteLine("\n");
 
+                    if (i % 2 != 0)
+                        indexOdd += $"{vetor[i]} ";
+                    if(vetor[i] % 2 == 0)
+                        indexPair += $"{vetor[i]} ";
+
                     sum += vetor[i];
                 }
 
+                Console.WriteLine($"Elementos nos índices ímpares: {indexOdd}");
+                Console.WriteLine($"\nElementos pares: {indexPair}");
+                Console.WriteLine($"\n\nSoma: {sum}");
+                Console.WriteLine($"Média: {sum / vetor.Length:F2}");
+
+                /*
                 Console.WriteLine("Elementos nos índices ímpares: ");
                 for (int i = 0; i < vetor.Length; i++)
                 {
@@ -87,6 +106,7 @@
 
                 Console.WriteLine($"\n\nSoma: {sum}");
                 Console.WriteLine($"Média: {sum/vetor.Length:F2}");
+             */
             }
 
             void Activity3()
@@ -105,34 +125,44 @@
                         Console.WriteLine("\n");
                     }
 
-                for(int lin = 0;lin < Math.Sqrt(matriz.Length); lin++)
-                    for(int col = 0;col < Math.Sqrt(matriz.Length); col++)
+                /*
+                for(int lin = 0; lin < Math.Sqrt(matriz.Length); lin++)
+                    for (int col = 0; col < Math.Sqrt(matriz.Length); col++)
                     {
-                        if(lin == col)
+                        if (lin == col)
                         {
                             mainDiagonal += $"{matriz[lin, col]} ";
                             mainDiagonalSum += matriz[lin, col];
                         }
-                        
+
                         if (lin + col == 2)
                         {
                             secundaryDiagonal += $"{matriz[lin, col]} ";
                             secundaryDiagonalSum += matriz[lin, col];
                         }
                     }
+                */
+
+                for (int i = 0; i < Math.Sqrt(matriz.Length); i++)
+                {
+                    mainDiagonal += $"{matriz[i, i]} ";
+                    mainDiagonalSum += matriz[i, i];
+
+                    secundaryDiagonal += $"{matriz[i, (int)(Math.Sqrt(matriz.Length) - 1 - i)]} ";
+                    secundaryDiagonalSum += matriz[i, (int)(Math.Sqrt(matriz.Length) - 1 - i)];
+                }
 
                 Console.WriteLine($"\nElementos da Diagonal Principal:\n{mainDiagonal}");
                 Console.WriteLine($"\nElementos da Diagonal Secundária:\n{secundaryDiagonal}");
                 Console.WriteLine($"\nSoma dos elementos da Diagonal Principal:\n{mainDiagonalSum}");
                 Console.WriteLine($"\nSoma dos elementos da Diagonal Secundária:\n{secundaryDiagonalSum}");
-
             }
 
             void Activity4()
             {
                 float scoreSum = 0;
-                float[,] matriz = new float[3, 4];
-                float[] vetor = new float[3];
+                float[,] matriz = new float[10, 4];
+                float[] vetor = new float[10];
 
                 Console.WriteLine("------------------------- Atividade 4 -------------------------");
                 for (int lin = 0; lin < matriz.GetLength(0); lin++) 
