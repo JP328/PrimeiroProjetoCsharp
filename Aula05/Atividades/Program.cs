@@ -125,6 +125,20 @@
                         Console.WriteLine("\n");
                     }
 
+                for (int i = 0; i < Math.Sqrt(matriz.Length); i++)
+                {
+                    mainDiagonal += $"{matriz[i, i]} ";
+                    mainDiagonalSum += matriz[i, i];
+
+                    secundaryDiagonal += $"{matriz[i, (int)(Math.Sqrt(matriz.Length) - 1 - i)]} ";
+                    secundaryDiagonalSum += matriz[i, (int)(Math.Sqrt(matriz.Length) - 1 - i)];
+                }
+
+                Console.WriteLine($"\nElementos da Diagonal Principal:\n{mainDiagonal}");
+                Console.WriteLine($"\nElementos da Diagonal Secundária:\n{secundaryDiagonal}");
+                Console.WriteLine($"\nSoma dos elementos da Diagonal Principal:\n{mainDiagonalSum}");
+                Console.WriteLine($"\nSoma dos elementos da Diagonal Secundária:\n{secundaryDiagonalSum}");
+
                 /*
                 for(int lin = 0; lin < Math.Sqrt(matriz.Length); lin++)
                     for (int col = 0; col < Math.Sqrt(matriz.Length); col++)
@@ -142,20 +156,6 @@
                         }
                     }
                 */
-
-                for (int i = 0; i < Math.Sqrt(matriz.Length); i++)
-                {
-                    mainDiagonal += $"{matriz[i, i]} ";
-                    mainDiagonalSum += matriz[i, i];
-
-                    secundaryDiagonal += $"{matriz[i, (int)(Math.Sqrt(matriz.Length) - 1 - i)]} ";
-                    secundaryDiagonalSum += matriz[i, (int)(Math.Sqrt(matriz.Length) - 1 - i)];
-                }
-
-                Console.WriteLine($"\nElementos da Diagonal Principal:\n{mainDiagonal}");
-                Console.WriteLine($"\nElementos da Diagonal Secundária:\n{secundaryDiagonal}");
-                Console.WriteLine($"\nSoma dos elementos da Diagonal Principal:\n{mainDiagonalSum}");
-                Console.WriteLine($"\nSoma dos elementos da Diagonal Secundária:\n{secundaryDiagonalSum}");
             }
 
             void Activity4()
