@@ -1,0 +1,14 @@
+C:\Users\joaop\Desktop\csharp\Aula07\Metodos02\bin\Debug\net7.0\Metodos02.exe
+C:\Users\joaop\Desktop\csharp\Aula07\Metodos02\bin\Debug\net7.0\Metodos02.deps.json
+C:\Users\joaop\Desktop\csharp\Aula07\Metodos02\bin\Debug\net7.0\Metodos02.runtimeconfig.json
+C:\Users\joaop\Desktop\csharp\Aula07\Metodos02\bin\Debug\net7.0\Metodos02.dll
+C:\Users\joaop\Desktop\csharp\Aula07\Metodos02\bin\Debug\net7.0\Metodos02.pdb
+C:\Users\joaop\Desktop\csharp\Aula07\Metodos02\obj\Debug\net7.0\Metodos02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\Desktop\csharp\Aula07\Metodos02\obj\Debug\net7.0\Metodos02.AssemblyInfoInputs.cache
+C:\Users\joaop\Desktop\csharp\Aula07\Metodos02\obj\Debug\net7.0\Metodos02.AssemblyInfo.cs
+C:\Users\joaop\Desktop\csharp\Aula07\Metodos02\obj\Debug\net7.0\Metodos02.csproj.CoreCompileInputs.cache
+C:\Users\joaop\Desktop\csharp\Aula07\Metodos02\obj\Debug\net7.0\Metodos02.dll
+C:\Users\joaop\Desktop\csharp\Aula07\Metodos02\obj\Debug\net7.0\refint\Metodos02.dll
+C:\Users\joaop\Desktop\csharp\Aula07\Metodos02\obj\Debug\net7.0\Metodos02.pdb
+C:\Users\joaop\Desktop\csharp\Aula07\Metodos02\obj\Debug\net7.0\Metodos02.genruntimeconfig.cache
+C:\Users\joaop\Desktop\csharp\Aula07\Metodos02\obj\Debug\net7.0\ref\Metodos02.dll
