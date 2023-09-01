@@ -1,0 +1,14 @@
+C:\Users\joaop\Desktop\Bootcamp-DotNet\csharp\Aula09\Transporte\bin\Debug\net7.0\Transporte.exe
+C:\Users\joaop\Desktop\Bootcamp-DotNet\csharp\Aula09\Transporte\bin\Debug\net7.0\Transporte.deps.json
+C:\Users\joaop\Desktop\Bootcamp-DotNet\csharp\Aula09\Transporte\bin\Debug\net7.0\Transporte.runtimeconfig.json
+C:\Users\joaop\Desktop\Bootcamp-DotNet\csharp\Aula09\Transporte\bin\Debug\net7.0\Transporte.dll
+C:\Users\joaop\Desktop\Bootcamp-DotNet\csharp\Aula09\Transporte\bin\Debug\net7.0\Transporte.pdb
+C:\Users\joaop\Desktop\Bootcamp-DotNet\csharp\Aula09\Transporte\obj\Debug\net7.0\Transporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\Desktop\Bootcamp-DotNet\csharp\Aula09\Transporte\obj\Debug\net7.0\Transporte.AssemblyInfoInputs.cache
+C:\Users\joaop\Desktop\Bootcamp-DotNet\csharp\Aula09\Transporte\obj\Debug\net7.0\Transporte.AssemblyInfo.cs
+C:\Users\joaop\Desktop\Bootcamp-DotNet\csharp\Aula09\Transporte\obj\Debug\net7.0\Transporte.csproj.CoreCompileInputs.cache
+C:\Users\joaop\Desktop\Bootcamp-DotNet\csharp\Aula09\Transporte\obj\Debug\net7.0\Transporte.dll
+C:\Users\joaop\Desktop\Bootcamp-DotNet\csharp\Aula09\Transporte\obj\Debug\net7.0\refint\Transporte.dll
+C:\Users\joaop\Desktop\Bootcamp-DotNet\csharp\Aula09\Transporte\obj\Debug\net7.0\Transporte.pdb
+C:\Users\joaop\Desktop\Bootcamp-DotNet\csharp\Aula09\Transporte\obj\Debug\net7.0\Transporte.genruntimeconfig.cache
+C:\Users\joaop\Desktop\Bootcamp-DotNet\csharp\Aula09\Transporte\obj\Debug\net7.0\ref\Transporte.dll

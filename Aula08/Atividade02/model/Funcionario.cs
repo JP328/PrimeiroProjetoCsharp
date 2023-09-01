@@ -85,7 +85,7 @@ namespace Atividade02.model
             this.salary = salary;
         }
 
-        public void View()
+        public virtual void View()
         {
             Console.WriteLine("\n****************************************************");
             Console.WriteLine("                 Dados do Funcionário:");
@@ -95,7 +95,6 @@ namespace Atividade02.model
             Console.WriteLine($"Salario: {(this.salary).ToString("C")}");
             Console.WriteLine($"Banco de Horas: {this.hoursBank:F2}");
             Console.WriteLine($"Carga Horaria: {this.workload} horas");
-            Console.WriteLine("***************************************************\n");
         }
     }
 }

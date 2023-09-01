@@ -85,7 +85,7 @@ namespace Atividade03.model
             this.price = price;
         }
 
-        public void View()
+        public virtual void View()
         {
             Console.WriteLine("\n****************************************************");
             Console.WriteLine("                 Dados do Produto:");
@@ -96,7 +96,6 @@ namespace Atividade03.model
             Console.WriteLine($"Descrição: {this.description}");
             Console.WriteLine($"Preço: {(this.price).ToString("C")}");
             Console.WriteLine($"Quantidade em estoque: {this.stock}");
-            Console.WriteLine("***************************************************\n");
         }
     }
 }
