@@ -1,0 +1,14 @@
+C:\Users\joaop\Desktop\Bootcamp-DotNet\csharp\Aula11\LinQ\bin\Debug\net7.0\LinQ.exe
+C:\Users\joaop\Desktop\Bootcamp-DotNet\csharp\Aula11\LinQ\bin\Debug\net7.0\LinQ.deps.json
+C:\Users\joaop\Desktop\Bootcamp-DotNet\csharp\Aula11\LinQ\bin\Debug\net7.0\LinQ.runtimeconfig.json
+C:\Users\joaop\Desktop\Bootcamp-DotNet\csharp\Aula11\LinQ\bin\Debug\net7.0\LinQ.dll
+C:\Users\joaop\Desktop\Bootcamp-DotNet\csharp\Aula11\LinQ\bin\Debug\net7.0\LinQ.pdb
+C:\Users\joaop\Desktop\Bootcamp-DotNet\csharp\Aula11\LinQ\obj\Debug\net7.0\LinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\Desktop\Bootcamp-DotNet\csharp\Aula11\LinQ\obj\Debug\net7.0\LinQ.AssemblyInfoInputs.cache
+C:\Users\joaop\Desktop\Bootcamp-DotNet\csharp\Aula11\LinQ\obj\Debug\net7.0\LinQ.AssemblyInfo.cs
+C:\Users\joaop\Desktop\Bootcamp-DotNet\csharp\Aula11\LinQ\obj\Debug\net7.0\LinQ.csproj.CoreCompileInputs.cache
+C:\Users\joaop\Desktop\Bootcamp-DotNet\csharp\Aula11\LinQ\obj\Debug\net7.0\LinQ.dll
+C:\Users\joaop\Desktop\Bootcamp-DotNet\csharp\Aula11\LinQ\obj\Debug\net7.0\refint\LinQ.dll
+C:\Users\joaop\Desktop\Bootcamp-DotNet\csharp\Aula11\LinQ\obj\Debug\net7.0\LinQ.pdb
+C:\Users\joaop\Desktop\Bootcamp-DotNet\csharp\Aula11\LinQ\obj\Debug\net7.0\LinQ.genruntimeconfig.cache
+C:\Users\joaop\Desktop\Bootcamp-DotNet\csharp\Aula11\LinQ\obj\Debug\net7.0\ref\LinQ.dll

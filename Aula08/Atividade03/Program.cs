@@ -44,9 +44,6 @@ namespace Atividade03
             Console.WriteLine("\n\n");
 
             v1.View();
-
-            v2.SetModel("Slim");
-            
             v2.View();
         }
     }
